@@ -1,0 +1,3 @@
+rootProject.name = 'golf_cheater_2061'
+
+include ':app'
